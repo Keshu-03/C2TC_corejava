@@ -1,6 +1,5 @@
 package DAY1;
 import java.util.Scanner;
-
 public class Addition {
 	public static void main(String[] args) {
 		int a,b,c;

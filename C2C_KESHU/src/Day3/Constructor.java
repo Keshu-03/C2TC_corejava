@@ -19,6 +19,7 @@ public class Constructor{
 		city=sc.nextLine();
 
 		
+	
 		System.out.println(" ");
 		
 		Customer c1=new Customer(); //default constructor invoked
