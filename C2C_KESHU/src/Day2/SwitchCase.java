@@ -1,10 +1,9 @@
-package DAY1;
+package Day2;
 
-public class Switch {
-
+public class SwitchCase {
 	public static void main(String[] args) {
 
-		char x = 'l';
+		char x = 'u';
 		switch (x) 
 		{
 		case 'l' : 
@@ -22,12 +21,14 @@ public class Switch {
 		case 's':
 		case 'S':
 			System.out.println(x+" is Special Symbol");
+			break;
+		case 'u':
+		case 'U':
+			System.out.println(x + " is Special Symbol");
+		
 		default:
 			System.out.println(x+" is other than letter, digit, space or special symbol ");
 			break;
-		}
-	
+}
 	}
-
-
 }

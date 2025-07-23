@@ -1,14 +1,13 @@
-package DAY1;
+package Day2;
 
-public class While {
+public class WhileLoop {
 	public static void main(String[] args) 
 	{
-		int i=99;
-		while(i<=100)
+		int i=10;
+		while(i<=15)
 		{
 			System.out.println(i);
 			i++;
-		}
+}
 	}
-
 }
