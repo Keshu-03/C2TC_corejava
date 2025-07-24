@@ -1,4 +1,4 @@
-package Day5.singleInheritance;
+package Day5;
 
 
 
